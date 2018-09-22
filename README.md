@@ -7,3 +7,19 @@ My topic for my instructional technical writing paper is "How to properly train 
 
 ## Rough Draft for Training Bird Dogs Instructions
 
+## Introduction: Background
+
+Training bird dogs is essential for any hunter that wishes to have success on an actual bird hunt. Whether it be quail, pheasant, or any other upland game bird, having a well trained dog will increase birds found and birds shot. The method of training which will specifically drawn out will be one that utilizes homing pigeons. This method is unique because most training methods use bird dummies or dead birds, while this method uses live birds that truly give a simulation of hunting for the dogs being trained. These instructions are driven towards novice upland bird hunters, or hunters with newly aquired bird dogs. 
+
+## Introduction: Supplies and Method of Instructions
+
+Training your bird dog may sound simple, one may think you only require a dog and a bird to train. However there are a minimum of item and land required to successfully have a training session using homing pigeons. Minimum requires items include: 
+
+- atleast 10 acres of land
+- atleast 1 homing pigeon
+- a shotgun that can either shoot blanks or live ammunition
+- a cage that is capable of holding the pigeon until release is necessary
+- 
+
+
+
