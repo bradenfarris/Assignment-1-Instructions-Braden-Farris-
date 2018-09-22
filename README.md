@@ -19,6 +19,11 @@ Training your bird dog may sound simple, one may think you only require a dog an
 - atleast 1 homing pigeon
 - a shotgun that can either shoot blanks or live ammunition
 - a cage that is capable of holding the pigeon until release is necessary
+
+For when you become an expert with the basic tools, you may need to upgrade your items for training. Upgraded items include:
+
+- 25+ acres of land
+- 10+ homing pigeons
 - 
 
 
