@@ -19,7 +19,7 @@ Topic: Paper 1/ Instructions
 
 ## Introduction: Background
 
-Training bird dogs is essential for any hunter that wishes to have success on an actual bird hunt. Whether it be quail, pheasant, or any other upland game bird, having a well trained dog will increase birds found and birds shot. The method of training which will specifically drawn out will be one that utilizes homing pigeons. This method is unique because most training methods use bird dummies or dead birds, while this method uses live birds that truly give a simulation of hunting for the dogs being trained. 
+Training bird dogs is essential for any hunter that wishes to have success on an actual bird hunt. Whether it be quail, pheasant, or any other upland game bird, having a well trained dog will increase birds found and birds shot. The method of training which will specifically drawn out will be one that utilizes homing pigeons. This method is unique because most training methods use bird dummies or dead birds, while this method uses live birds that truly give a simulation of hunting for the dogs being trained. Upland bird hunting consists of hunting quail and pheasant in most places. My place of origin (Central and Western Oklahoma) is one of the best places to hunt either one.  
 
 Over the last five years I have trained our three Epagnuel Bretons with my father, and we have become experts at training our dogs using our 30+ homing pigeons. Homing pigeons are an amazing animal to have, because no matter what they will always return to roost everyday. Our loft is situated in our backyard, about 10 miles from where we train.
 
