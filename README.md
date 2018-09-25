@@ -60,6 +60,8 @@ With your homing pigeon ready in the field, now it is time to ready your dog. At
 
 Your dog will eventually catch scent of the bird and will halt. It will "point" towards the bird's location. At this point grab the rope attached to your dog's collar and hold it in case your dog tries to move forward. It is very important to keep your dog steady and not have it run towards the bird. In an actaul hunting situation your dog must be still and hold it's point, in order for you to move in and flush the bird to shoot it.
 
+![pigeon](
+
 ## Step 4: Releasing the Homing Pigeon and Simulating the Hunt
 
 Continue to hold your dog steady and repeat the phrase "woah". Keep "woahing" your dog to ensure it understands to stay still. Now move in and flip the cage in which the pigeon is staying. The pigeon will take off and begin flying back towards it's homing loft. As soon as the bird takes off from the cage, you need to throw the quail dummy in the air and fire the shotgun in the direction you threw it. **This action is the most important part of this exercise**. The throwing of the dummy and the shooting of the shotgun simulate what should happen during an actual live hunt. Continue to hold the rope to keep your dog steady after you shoot the shotgun. *Training your dog to retrieve is another set of instructions*. After a few seconds you can release your dog. Now your dog should undertsand to stay steady from the point it smells the bird to the point that you have fired your shotgun and the bird is ready to be fetched. 
