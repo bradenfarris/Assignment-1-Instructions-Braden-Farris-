@@ -58,9 +58,7 @@ With your homing pigeon ready in the field, now it is time to ready your dog. At
 
 ## Step 3: Finding the Homing Pigeon
 
-Your dog will eventually catch scent of the bird and will halt. It will "point" towards the bird's location. At this point grab the rope attached to your dog's collar and hold it in case your dog tries to move forward. It is very important to keep your dog steady and not have it run towards the bird. In an actaul hunting situation your dog must be still and hold it's point, in order for you to move in and flush the bird to shoot it.
-
-![pigeon](
+Your dog will eventually catch scent of the bird and will halt. It will "point" towards the bird's location. At this point grab the rope attached to your dog's collar and hold it in case your dog tries to move forward. It is very important to keep your dog steady and not have it run towards the bird. In an actaul hunting situation your dog must be still and hold it's point, in order for you to move in and flush the bird and shoot it. 
 
 ## Step 4: Releasing the Homing Pigeon and Simulating the Hunt
 
