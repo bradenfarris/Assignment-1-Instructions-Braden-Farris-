@@ -7,7 +7,7 @@ Topic: Paper 1/ Instructions
 
 -----
 
-# Training your Bird Dog with Homing Pigeons: A Simulated Hunt
+# Training Your Bird Dog with Homing Pigeons: A Simulated Hunt
 
 Instructions given by Braden Farris, an expert in the field of bird dog training. 
 
