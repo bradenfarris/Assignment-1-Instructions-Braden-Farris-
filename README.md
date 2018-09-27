@@ -94,6 +94,6 @@ What age can I start training my dog?
 - Avoid fields with too short of grass that cannot sufficiently cover the pigeon, the grass should be waste high
 
 
-
+ 
 
 
